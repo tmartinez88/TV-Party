@@ -1,6 +1,6 @@
 body {
     margin-top:25px;
-    background-color:whitesmoke;
+    background-color:lightgray;
     color:black;
     
     }
@@ -14,14 +14,14 @@ body {
   }
 
   .controller {
-    width:400px;
+    width:325px;
     height:600px;
     display:flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding-top:24px;
-    background-color: rgba(0, 0, 0, .5);
+    background-color: black;
     
     
   }
@@ -50,14 +50,14 @@ video {
     font-style: italic;
     font-style: oblique;
     background-color:transparent;
-    border-color:black;
+    color:whitesmoke;
     border-radius:1000px;
     border-style:solid;
     border-width:1px; 
     height:100px;
     width:100px;
     cursor:pointer;
-    color:black;
+    color:whitesmoke;
     box-shadow:1px 6px 8px black;
     margin-left:4px;
     margin-right:4px;
